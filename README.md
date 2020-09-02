@@ -47,4 +47,7 @@
   <a href="https://medium.com/@gabrielhilal">
     <img src="https://img.shields.io/badge/medium%20-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+  <a href="https://gabrielhilal.com">
+    <img src="https://img.shields.io/badge/gabrielhilal.com-%23216425.svg?&style=for-the-badge"/>
+  </a>
 </p>
