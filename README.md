@@ -21,13 +21,15 @@ My name is Gabriel Hilal and I'm a full-stack web developer. I'm from Brazil and
 
 #### StackOverflow and GitHub Stats
 
-<a href="https://stackoverflow.com/users/1155142/gabrielhilal" align="center">
-  <img src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+<p align="center">
+  <a href="https://stackoverflow.com/users/1155142/gabrielhilal">
+    <img src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </a>
+</p>
 
-<br>
-
-<a href="#" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhilal&count_private=true&show_icons=true&hide_title=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilal&layout=compact&hide_title=1" />
-</a>
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielhilal&count_private=true&show_icons=true&hide_title=1" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilal&layout=compact&hide_title=1" />
+  </a>
+</p>
