@@ -9,6 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilal&layout=compact&hide_title=1" />
 </p>
 
+---
+
 <h2 align="center">⚡ Some of my everyday tools</h2>
 
 <p align="center">
@@ -26,11 +28,13 @@
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
+---
+
 <h2 align="center">📫 Find me elsewhere</h2>
 
 <p align="center">
   <a href="https://stackoverflow.com/users/1155142/gabrielhilal">
-    <img src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+    <img src="https://stackoverflow.com/users/flair/1155142.png?theme=dark" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </a>
 </p>
 <p align="center">
