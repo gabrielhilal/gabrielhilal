@@ -2,12 +2,7 @@
 
 My name is Gabriel Hilal and I'm a full-stack web developer. I'm from Brazil and I lived in the UK for a few years. I'm currently based in Porto Alegre (GMT-3) and I work remotely as the Lead Developer at Healios (UK based company).
 
-
-<a href="https://stackoverflow.com/users/1155142/gabrielhilal"><img src="https://stackoverflow.com/users/flair/1155142.png" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-## Technical Sklls
-
-#### My Everyday Tools
+#### Some of my everyday tools
 
 <a href="#" align="center">
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -19,21 +14,18 @@ My name is Gabriel Hilal and I'm a full-stack web developer. I'm from Brazil and
   <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-#### My Everyday Tools
-
-<a href="#" align="center">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </a>
 
-# GitHub Stats
+#### StackOverflow and GitHub Stats
+
+<a href="https://stackoverflow.com/users/1155142/gabrielhilal" align="center">
+  <img src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
 
 <a href="#" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielhilal&count_private=true&show_icons=true&hide_title=1" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilal&layout=compact&hide_title=1" />
 </a>
- 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
