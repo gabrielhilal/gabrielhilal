@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://stackoverflow.com/users/1155142/gabrielhilal">
-    <img src="https://stackoverflow.com/users/flair/1155142.png?theme=dark" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+    <img src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </a>
 </p>
 <p align="center">
