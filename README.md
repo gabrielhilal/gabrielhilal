@@ -9,8 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilal&layout=compact&hide_title=1" />
 </p>
 
----
-
 <h2 align="center">⚡ Some of my everyday tools</h2>
 
 <p align="center">
@@ -27,8 +25,6 @@
   <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
-
----
 
 <h2 align="center">📫 Find me elsewhere</h2>
 
