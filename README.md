@@ -2,7 +2,6 @@
 
 My name is Gabriel Hilal and I'm a full-stack web developer. I'm from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>Brazil</b>, but I've also lived in the <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>UK</b> for a few years. I'm currently based in <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> (<b>GMT-3</b>) and I work remotely as the Lead Developer at <a href="https://healios.org.uk/">Healios</a>.
 
-#### Some of my everyday tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -13,13 +12,12 @@ My name is Gabriel Hilal and I'm a full-stack web developer. I'm from <img src="
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-#### StackOverflow and GitHub Stats
 
 <p align="center">
   <a href="https://stackoverflow.com/users/1155142/gabrielhilal">
