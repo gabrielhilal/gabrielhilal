@@ -1,7 +1,13 @@
-## Olá 👋
+<h1 align="center">Olá, I'm Gabriel Hilal 👋</h1>
 
-My name is Gabriel Hilal and I'm a full-stack web developer. I'm from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>Brazil</b>, but I've also lived in the <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>UK</b> for a few years. I'm currently based in <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> (<b>GMT-3</b>) and I work remotely as the Lead Developer at <a href="https://healios.org.uk/">Healios</a>.
+<p align="center">
+  <samp>I'm a full-stack web developer from 🇧🇷 <b>Brazil</b>. I've lived in the 🇬🇧 <b>UK</b> for a few years, but I'm currently based in <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> (<b>GMT-3</b>) and I work remotely as the Lead Developer at <a href="https://healios.org.uk/">Healios</a>.</samp>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhilal&count_private=true&show_icons=true&hide_title=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilal&layout=compact&hide_title=1" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -18,6 +24,7 @@ My name is Gabriel Hilal and I'm a full-stack web developer. I'm from <img src="
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
+<h2>Where to find me</h2>
 
 <p align="center">
   <a href="https://stackoverflow.com/users/1155142/gabrielhilal">
@@ -25,8 +32,5 @@ My name is Gabriel Hilal and I'm a full-stack web developer. I'm from <img src="
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhilal&count_private=true&show_icons=true&hide_title=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilal&layout=compact&hide_title=1" />
-</p>
+
 
