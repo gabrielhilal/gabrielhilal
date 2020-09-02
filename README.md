@@ -34,11 +34,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielhilal/">
+  <a href="mailto:gabrielhilal@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabrielhilal/">
+  <a href="https://www.linkedin.com/in/gabrielhilal">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://medium.com/@gabrielhilal">
+    <img src="https://img.shields.io/badge/medium%20-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
-
