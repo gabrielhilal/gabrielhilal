@@ -1,7 +1,7 @@
 <h1 align="center">Olá, I'm Gabriel Hilal 👋</h1>
 
 <p align="center">
-  <samp>I am a Software Engineer specialised in web development. I'm currently based in 🇧🇷 <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> (<b>GMT-3</b>) and I work remotely as the Lead Developer at 🇬🇧 <a href="https://healios.org.uk/">Healios</a>.</samp>
+  <samp>I am a Software Engineer specialised in web development. I'm currently based in 🇧🇷 <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> (<b>GMT-3</b>) and I work remotely as Lead Developer at 🇬🇧 <a href="https://healios.org.uk/">Healios</a>.</samp>
 </p>
 
 <p align="center">
@@ -10,6 +10,8 @@
 </p>
 
 ---
+
+<h2 align="center">⚡ Some of my everyday tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -27,6 +29,8 @@
 </p>
 
 ---
+
+<h2 align="center">📫 Find me elsewhere</h2>
 
 <p align="center">
   <a href="https://stackoverflow.com/users/1155142/gabrielhilal">
