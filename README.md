@@ -1,13 +1,15 @@
 <h1 align="center">Olá, I'm Gabriel Hilal 👋</h1>
 
 <p align="center">
-  <samp>I'm a full-stack web developer from 🇧🇷 <b>Brazil</b>. I've lived in the 🇬🇧 <b>UK</b> for a few years, but I'm currently based in <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> (<b>GMT-3</b>) and I work remotely as the Lead Developer at <a href="https://healios.org.uk/">Healios</a>.</samp>
+  <samp>I'm a full-stack web developer specialised in Ruby on Rails, JavaScript and related technologies. I'm currently based in 🇧🇷 <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> (<b>GMT-3</b>) and I work remotely as the Lead Developer at 🇬🇧 <a href="https://healios.org.uk/">Healios</a>.</samp>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielhilal&count_private=true&show_icons=true&hide_title=1" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilal&layout=compact&hide_title=1" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -24,13 +26,15 @@
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-<h2>Where to find me</h2>
+---
 
 <p align="center">
   <a href="https://stackoverflow.com/users/1155142/gabrielhilal">
     <img src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </a>
+  <a href="https://www.linkedin.com/in/gabrielhilal/">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
-
 
 
