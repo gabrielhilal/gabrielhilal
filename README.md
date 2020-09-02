@@ -1,6 +1,6 @@
 ## Olá 👋
 
-My name is Gabriel Hilal and I'm a full-stack web developer. I'm from Brazil and I've lived in the UK for a few years. I'm currently based in Porto Alegre (GMT-3) and I work remotely as the Lead Developer at Healios (UK based company).
+My name is Gabriel Hilal and I'm a full-stack web developer. I'm from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>Brazil</b>, but I've also lived in the <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/> <b>UK</b> for a few years. I'm currently based in Porto Alegre (GMT-3) and I work remotely as the Lead Developer at Healios (UK based company).
 
 #### Some of my everyday tools
 
