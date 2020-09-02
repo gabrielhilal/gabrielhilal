@@ -1,7 +1,7 @@
 <h1 align="center">Olá, I'm Gabriel Hilal 👋</h1>
 
 <p align="center">
-  <samp>I'm a full-stack web developer specialised in Ruby on Rails, JavaScript and related technologies. I'm currently based in 🇧🇷 <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> (<b>GMT-3</b>) and I work remotely as the Lead Developer at 🇬🇧 <a href="https://healios.org.uk/">Healios</a>.</samp>
+  <samp>I am a software engineer specialised in web development. I'm currently based in 🇧🇷 <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> (<b>GMT-3</b>) and I work remotely as the Lead Developer at 🇬🇧 <a href="https://healios.org.uk/">Healios</a>.</samp>
 </p>
 
 <p align="center">
