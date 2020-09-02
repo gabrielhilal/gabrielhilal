@@ -32,9 +32,13 @@
   <a href="https://stackoverflow.com/users/1155142/gabrielhilal">
     <img src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielhilal/">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/gabrielhilal/">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 
