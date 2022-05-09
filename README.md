@@ -1,53 +1,66 @@
+<!-- <img align="left" width="100" height="100" src="https://www.gravatar.com/avatar/c680db41999d478ca34d1a77a470e30d"> -->
+
 <h1 align="center">Olá, I'm Gabriel Hilal 👋</h1>
 
-<p align="center">
-  <samp>I'm a Software Engineer specialised in web development. I'm currently based in 🇧🇷 <a href="https://en.wikipedia.org/wiki/Porto_Alegre">Porto Alegre</a> (<b>UTC-3</b>) and I work remotely as Lead Developer at 🇬🇧 <a href="https://healios.org.uk/">Healios</a>.</samp>
+<p>  
+  <samp>
+    I'm a senior Software Engineer specialist in full-stack web development. I'm based in <a href="https://en.wikipedia.org/wiki/Porto_Alegre" target="_blank">Porto Alegre</a>/Brazil 🇧🇷 (<b>UTC-3</b>) and have been working remotely for companies in the UK 🇬🇧 since 2015.
+  </samp>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhilal&count_private=true&show_icons=true&hide_title=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhilal&layout=compact&hide_title=1" />
+<a href="https://stackoverflow.com/users/1155142/gabrielhilal">
+  <img align="right" src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="StackOverflow">
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/gabrielhilal" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white"></img>
+</a>
+
+<a href="mailto:gabrielhilal@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=for-the-badge&logoColor=white"></img>
+</a>
+
+<a href="https://medium.com/@gabrielhilal" target="_blank">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?logo=medium&style=for-the-badge&logoColor=white"></img>
+</a>
+
+<a href="https://instagram.com/gabrielhilal" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white"></img>
+</a>
+
+<a href="https://gabrielhilal.com" target="_blank">
+  <img src="https://img.shields.io/badge/gabrielhilal.com-216425.svg?&style=for-the-badge"/>
+</a>
+
+<h2>⚡ Some of my everyday tools</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RSpec-CC342D?&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-84ea2b?&style=flat&logoColor=white"/>
 </p>
 
----
-
-<h2 align="center">⚡ Some of my everyday tools</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat-square&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=flat-square&logo=ruby-on-rails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0769AD?logo=bootstrap&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slim-fa9d37?style=flat"/>
 </p>
 
----
-
-<h2 align="center">📫 Find me elsewhere</h2>
-
-<p align="center">
-  <a href="https://stackoverflow.com/users/1155142/gabrielhilal">
-    <img src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gabrielhilal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-  </a>
-</p>
-<p align="center">
-  <a href="mailto:gabrielhilal@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielhilal">
-    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@gabrielhilal">
-    <img src="https://img.shields.io/badge/medium%20-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://gabrielhilal.com">
-    <img src="https://img.shields.io/badge/gabrielhilal.com-%23216425.svg?&style=for-the-badge"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&style=flat&logoColor=white"/>
 </p>
