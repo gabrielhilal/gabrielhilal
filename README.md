@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/gabrielhilal.com-216425.svg?&style=for-the-badge"/>
 </a>
 
+---
+
 <h2>⚡ Some of my everyday tools</h2>
 
 <p>
@@ -62,3 +64,15 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&style=flat&logoColor=white"/>
 </p>
+
+<h2>👽 My journey so far</h2>
+
+- [1982] - Born in Porto Algre/Brazil 🇧🇷
+- [2005] - Moved to London/UK 🇬🇧
+- [2005 - 2009] - Travel, travel and travel (while studying English) 🛫 🌍 
+- [2009 - 2012] - BSc Information Systems at [Kingston university](http://www.kingston.ac.uk/) 👨‍🎓
+- [2012 - 2013] - MSc Information Systems at [Kingston university](http://www.kingston.ac.uk/) 👨‍🎓
+- [2014] - Moved back to Porto Algre/Brazil 🇧🇷
+- [2014 - 2015] - Web Developer at [Real Compare](https://www.seguroviagem.srv.br/)
+- [2015 - 2018] - Senior Software Developer at [Happy Bear Software](https://www.happybearsoftware.com/) (Remote 🇧🇷 -> 🇬🇧)
+- [2018 - 2022] - Lead Developer at [Healios](https://www.healios.org.uk/) (Remote 🇧🇷 -> 🇬🇧)
