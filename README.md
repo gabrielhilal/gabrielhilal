@@ -2,37 +2,39 @@
 
 <h1 align="center">Olá, I'm Gabriel Hilal 👋</h1>
 
-<p>  
+<p align="center">  
   <samp>
     I'm a senior Software Engineer specialist in full-stack web development. I'm based in <a href="https://en.wikipedia.org/wiki/Porto_Alegre" target="_blank">Porto Alegre</a>/Brazil 🇧🇷 (<b>UTC-3</b>) and have been working remotely for companies in the UK 🇬🇧 since 2015.
   </samp>
 </p>
 
-<a href="https://stackoverflow.com/users/1155142/gabrielhilal">
-  <img align="right" src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="StackOverflow">
-</a>
+<p align="center">  
+  <a href="https://www.linkedin.com/in/gabrielhilal" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white"></img>
+  </a>
 
-<br>
+  <a href="mailto:gabrielhilal@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=for-the-badge&logoColor=white"></img>
+  </a>
 
-<a href="https://www.linkedin.com/in/gabrielhilal" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white"></img>
-</a>
+  <a href="https://medium.com/@gabrielhilal" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?logo=medium&style=for-the-badge&logoColor=white"></img>
+  </a>
 
-<a href="mailto:gabrielhilal@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=for-the-badge&logoColor=white"></img>
-</a>
+  <a href="https://instagram.com/gabrielhilal" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white"></img>
+  </a>
 
-<a href="https://medium.com/@gabrielhilal" target="_blank">
-  <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?logo=medium&style=for-the-badge&logoColor=white"></img>
-</a>
-
-<a href="https://instagram.com/gabrielhilal" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white"></img>
-</a>
-
-<a href="https://gabrielhilal.com" target="_blank">
-  <img src="https://img.shields.io/badge/gabrielhilal.com-216425.svg?&style=for-the-badge"/>
-</a>
+  <a href="https://gabrielhilal.com" target="_blank">
+    <img src="https://img.shields.io/badge/gabrielhilal.com-216425.svg?&style=for-the-badge"/>
+  </a>
+  
+  <br>
+  
+  <a href="https://stackoverflow.com/users/1155142/gabrielhilal">
+    <img src="https://stackoverflow.com/users/flair/1155142.png?theme=clean" width="208" height="58" alt="StackOverflow">
+  </a>
+<p>
 
 ---
 
