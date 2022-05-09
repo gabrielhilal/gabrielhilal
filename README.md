@@ -57,8 +57,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=flat&logoColor=white"/>
