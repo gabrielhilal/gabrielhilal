@@ -21,10 +21,6 @@
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?logo=medium&style=for-the-badge&logoColor=white"></img>
   </a>
 
-  <a href="https://instagram.com/gabrielhilal" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white"></img>
-  </a>
-
   <a href="https://gabrielhilal.com" target="_blank">
     <img src="https://img.shields.io/badge/gabrielhilal.com-216425.svg?&style=for-the-badge"/>
   </a>
