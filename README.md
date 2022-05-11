@@ -72,5 +72,6 @@
 - [2012 - 2013] - MSc Information Systems at [Kingston university](http://www.kingston.ac.uk/) 👨‍🎓
 - [2014] - Moved back to Porto Algre/Brazil 🇧🇷
 - [2014 - 2015] - Web Developer at [Real Compare](https://www.seguroviagem.srv.br/)
+- [2015 - 2015] - Software Engineer at [Hewlett-Packard](https://www.hp.com/us-en/hp-labs/research/overview.html)
 - [2015 - 2018] - Senior Software Developer at [Happy Bear Software](https://www.happybearsoftware.com/) (Remote 🇧🇷 -> 🇬🇧)
 - [2018 - 2022] - Lead Developer at [Healios](https://www.healios.org.uk/) (Remote 🇧🇷 -> 🇬🇧)
