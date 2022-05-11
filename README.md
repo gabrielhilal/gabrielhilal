@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/RSpec-CC342D?&style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-84ea2b?&style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&style=flat&logoColor=black"/>
 </p>
 
 <p>
