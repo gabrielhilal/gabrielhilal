@@ -65,12 +65,12 @@
 
 <h2>👽 My journey so far</h2>
 
-- [1982] - Born in Porto Algre/Brazil 🇧🇷
+- [1982] - 👶 Born in Porto Alegre/Brazil 🇧🇷
 - [2005] - Moved to London/UK 🇬🇧
 - [2005 - 2009] - Travel, travel and travel (while studying English) 🛫 🌍 
 - [2009 - 2012] - BSc Information Systems at [Kingston university](http://www.kingston.ac.uk/) 👨‍🎓
 - [2012 - 2013] - MSc Information Systems at [Kingston university](http://www.kingston.ac.uk/) 👨‍🎓
-- [2014] - Moved back to Porto Algre/Brazil 🇧🇷
+- [2014] - Moved back to Porto Alegre/Brazil 🇧🇷
 - [2014 - 2015] - Web Developer at [Real Compare](https://www.seguroviagem.srv.br/)
 - [2015 - 2015] - Software Engineer at [Hewlett-Packard](https://www.hp.com/us-en/hp-labs/research/overview.html)
 - [2015 - 2018] - Senior Software Developer at [Happy Bear Software](https://www.happybearsoftware.com/) (Remote 🇧🇷 -> 🇬🇧)
